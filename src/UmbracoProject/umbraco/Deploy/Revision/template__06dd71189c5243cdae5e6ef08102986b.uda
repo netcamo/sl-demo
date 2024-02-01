@@ -1,0 +1,14 @@
+{
+  "Name": "dt",
+  "Alias": "dt",
+  "File": "umb://template-file/dt.cshtml",
+  "Udi": "umb://template/06dd71189c5243cdae5e6ef08102986b",
+  "Dependencies": [
+    {
+      "Udi": "umb://template-file/dt.cshtml",
+      "Ordering": true
+    }
+  ],
+  "__type": "Umbraco.Deploy.Infrastructure,Umbraco.Deploy.Infrastructure.Artifacts.TemplateArtifact",
+  "__version": "13.0.3"
+}
